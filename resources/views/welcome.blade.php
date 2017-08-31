@@ -166,37 +166,6 @@
 
                                     </tr>
 
-
-
-                                    <!--<tr valign="top">
-
-                                        <td width="281" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
-
-                                            <p>Altitud</p>
-
-                                        </td>
-
-                                        <td width="282" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
-
-                                            <p>3.200 m.s.n.m</td>
-
-                                    </tr>
-
-                                    <tr valign="top">
-
-                                        <td width="281" bgcolor="#ffffff" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
-
-                                            <p>Temperatura</p>
-
-                                        </td>
-
-                                        <td width="282" bgcolor="#ffffff" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
-
-                                            <p>12°</p>
-
-                                        </td>
-
-                                    </tr>-->
                                     <tr valign="top">
 
                                         <td width="281" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
@@ -241,7 +210,7 @@
 
                                 <li><ins>Abstenerse de asistir si no se encuentra inscrito</ins></li>
 
-                                <li><strong>Llevar la tarjeta de tu llave cargada, se debe regresar en el SITP</strong></li>
+                                <!--<li><strong>Llevar la tarjeta de tu llave cargada, se debe regresar en el SITP</strong></li>-->
                             </font>
 
                             <br>
